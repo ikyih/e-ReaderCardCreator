@@ -184,8 +184,8 @@
   <data name="Fortune_Paper_PG" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Fortune_Paper_PG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="FOT_Rodin_Pro_M" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\FOT-Rodin Pro M.ttf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="FOT-RodinWanpakuPro-EB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FOT-RodinWanpakuPro-EB.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Gingko_Paper_PG" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Gingko_Paper_PG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
